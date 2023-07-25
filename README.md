@@ -31,12 +31,11 @@ The code is organized as follows:
 - PIL (Python Imaging Library)
 
 ## Usage
-1. Clone this repository to your local machine: `git clone https://github.com/your-username/tc_intensity_prediction.git`
-2. Install the required dependencies: `pip install -r requirements.txt`
-3. Download the Tropical Cyclone Image Dataset from the link provided above.
-4. Place the downloaded dataset in the appropriate directory.
-5. Open and run the Jupyter notebook `Model_Training.ipynb` to perform data preprocessing and training.
-6. Open and run the Jupyter notebook `evaluate.ipynb` to evaluate the trained model on the test set and generate performance metrics.
+1. Clone this repository to your local machine: `git clone https://github.com/darshanrao/Cylone_Intensity_Prediction_Using_Neural_Network.git`
+2. Download the Tropical Cyclone Image Dataset from the link provided above.
+3. Place the downloaded dataset in the appropriate directory.
+4. Open and run the Jupyter notebook `Model_Training.ipynb` to perform data preprocessing and training.
+5. Open and run the Jupyter notebook `evaluate.ipynb` to evaluate the trained model on the test set and generate performance metrics.
 
 ## Acknowledgments
 We acknowledge Prof. Hsuan-Tien Lin from National Taiwan University for providing the Tropical Cyclone Image Dataset used in this research. We also thank the open-source community for providing valuable tools and libraries that enabled this project.
