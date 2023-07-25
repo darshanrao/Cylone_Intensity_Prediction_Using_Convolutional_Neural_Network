@@ -18,7 +18,10 @@ The research employs the Tropical Cyclone Image Dataset provided by Prof. Hsuan-
 The code is organized as follows:
 - `preprocess_and_train.ipynb`: Jupyter notebook containing the code for data preprocessing, including image augmentation and normalization, as well as the code for training the model using the preprocessed dataset.
 - `evaluate.ipynb`: Jupyter notebook for evaluating the trained model on the test set and generating performance metrics.
-- `demo.ipynb`: Jupyter notebook providing a step-by-step demonstration of the TC intensity prediction process using a sample image.
+- `ATLN_Model_Results.ipynb`: Jupyter notebook providing results for the model when used on Atlantic 2015-15 Dataset.
+- `EPAC_Model_Results.ipynb`: Jupyter notebook providing results for the model when used on East Pacific 2015-15 Dataset.
+- `WPAC_Model_Results.ipynb`: Jupyter notebook providing results for the model when used on West Pacific 2015-15 Dataset.
+- `ATLN_Model_Results.ipynb`: Jupyter notebook providing results for the model when used on Overall(All three Regions)  2015-15 Dataset.
 
 ## Requirements
 - Python 3.7 or higher
