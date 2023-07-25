@@ -1,0 +1,23 @@
+EPAC_TCI-Net:2824
+Mean Squared Error (MSE): 72.5474438499652
+Root Mean Squared Error (RMSE): 8.51747872612343
+Mean Absolute Error (MAE): 6.327561325797278
+R-squared (R2) Score: 0.9093206130951369
+
+ATLN_TCI_Net:1786
+Mean Squared Error (MSE): 83.93439176754995
+Root Mean Squared Error (RMSE): 9.16157146823349
+Mean Absolute Error (MAE): 6.955817034637007
+R-squared (R2) Score: 0.8592678843046418
+
+WPAC_TCI_Net:2953
+Mean Squared Error (MSE): 101.62036364077777
+Root Mean Squared Error (RMSE): 10.080692617116037
+Mean Absolute Error (MAE): 7.7545406087713245
+R-squared (R2) Score: 0.9094066859094089
+
+Overall_TCI_Net:7563
+Mean Squared Error (MSE): 86.58811993941515
+Root Mean Squared Error (RMSE): 9.305273770256045
+Mean Absolute Error (MAE): 7.033094181296341
+R-squared (R2) Score: 0.9044696088601056 
