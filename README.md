@@ -39,9 +39,3 @@ The code is organized as follows:
 
 ## Acknowledgments
 We acknowledge Prof. Hsuan-Tien Lin from National Taiwan University for providing the Tropical Cyclone Image Dataset used in this research. We also thank the open-source community for providing valuable tools and libraries that enabled this project.
-
-## Citation
-If you find this work useful in your research, please cite our paper:
-```
-[Insert citation details here]
-```
